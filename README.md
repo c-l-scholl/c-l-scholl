@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @c-l-scholl
-- 👀 I’m interested in baseball, video games (mostly tactical shooters), guitar, and anime.
-- 🌱 I’m currently learning how to college.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a computer science major and student athlete at Macalester College. 
+- 🌱 I primarily code in Java, with experience in JavaScript, HTML/CSS, C/C#/C++, and Python.
+- 📫 How to reach me: camden.scholl.32@gmail.com
 
 <!---
 c-l-scholl/c-l-scholl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
