@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c-l-scholl
-- 👀 I’m a computer science major and student athlete at Macalester College. 
-- 🌱 I primarily code in Java, with experience in JavaScript, HTML/CSS, C/C#/C++, and Python.
+- 👀 I’m a computer science major, japanese minor, and student athlete at Macalester College. 
+- 🌱 I primarily code in Java, with experience in Python, SQL, JavaScript, HTML/CSS, and C.
 - 📫 How to reach me: camden.scholl.32@gmail.com
 
 <!---
