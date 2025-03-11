@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c-l-scholl
 - 👀 I’m a computer science major, japanese minor, and student athlete at Macalester College. 
-- 🌱 I have experience in React, NodeJs, Java/TypeScript, Python, SQL, and Unity/C#.
+- 🌱 I have experience in Python, React, JS/TS, SQL, and Unity/C#.
 - 📫 How to reach me: camden.scholl.32@gmail.com
 
 <!---
